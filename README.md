@@ -177,3 +177,5 @@ public void run() {
 具体的网络请求工具类源码：[https://github.com/Seven749/NetUtil.git](https://github.com/Seven749/NetUtil.git)
 
 具体的实例应用：[https://github.com/Seven749/RainbowBihu.git](https://github.com/Seven749/RainbowBihu.git)
+
+本博客：[https://blog.csdn.net/weixin_45613600/article/details/104560278](https://blog.csdn.net/weixin_45613600/article/details/104560278)
